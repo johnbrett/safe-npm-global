@@ -1,0 +1,24 @@
+{
+  "name": "safe-npm-global",
+  "version": "0.0.1",
+  "description": "Configures npm to use the user directory for global installs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnbrett/safe-npm-global.git"
+  },
+  "keywords": [
+    "npm",
+    "global",
+    "security"
+  ],
+  "author": "John Brett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnbrett/safe-npm-global/issues"
+  },
+  "homepage": "https://github.com/johnbrett/safe-npm-global"
+}
