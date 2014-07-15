@@ -1,6 +1,6 @@
 {
   "name": "safe-npm-global",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Configures npm to use the user directory for global installs",
   "main": "index.js",
   "scripts": {
