@@ -20,7 +20,7 @@ In short the solution is to run this, BEFORE running this packagem otherwise the
 
 ```
 $ npm install -g --prefix=$(npm config get prefix) npm@1.4.10
-$ hash -r # if using Bash, to update its path cache
+$ bash -r # if using Bash, to update its path cache
 $ npm --version # Confirm correct version is now active
 1.4.10
 ```
